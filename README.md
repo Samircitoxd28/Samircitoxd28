@@ -22,7 +22,7 @@
 ✔ Call me: ***He/Him*** or ***Kleber the Dev in Progress*** 👨‍💻<br>
 ✔ I’m currently studying Software Development at **Tecnológico Espíritu Santo** 🎓<br>
 ✔ I’ve worked on cool projects like a **Scholarship System**, a **FPS Video Game in Unity**, and a **Habit Tracker App** 🚀<br>
-✔ I’m learning and practicing with tools like **Visual Studio**, **NetBeans**, **Android Studio**, and languages like **Java**, **.NET**, **Python** and **C++** 💻<br>
+✔ I’m learning and practicing with tools like **Visual Studio**, **NetBeans**, **Android Studio**, and languages like **Java**, **.NET**, **Python** 💻<br>
 ✔ I have basic experience with **SQL Server**, **MySQL**, and **PostgreSQL**, and I enjoy building things that solve real problems 📊<br>
 ✔ Design? Yup! I use **Figma** and **Canva** at a basic level to give life to my ideas 🎨<br>
 ✔ Fun fact: *I learn something new every day... and then take a power nap to let it sink in* 🧠💤<br><br>
@@ -32,7 +32,7 @@
 ✔ Puedes llamarme: ***Él/Su*** o ***Desarrollador en proceso*** 👨‍💻  
 ✔ Actualmente estudio Desarrollo de Software en el **Tecnológico Espíritu Santo** 🎓  
 ✔ He trabajado en proyectos como un **Sistema de Becas**, un **Videojuego FPS en Unity** y una **Aplicación para el control de hábitos** 🚀  
-✔ Tengo conocimientos en **Java**, **.NET**, **Python** y **C++**, además de experiencia básica en bases de datos como **SQL Server**, **MySQL** y **PostgreSQL** 🛠️  
+✔ Tengo conocimientos en **Java**, **.NET**, **Python**, además de experiencia básica en bases de datos como **SQL Server**, **MySQL** y **PostgreSQL** 🛠️  
 ✔ Manejo herramientas como **Visual Studio 2022**, **NetBeans**, **Android Studio** y **Visual Studio Code**  
 ✔ También realizo diseños básicos con **Figma** y **Canva** 🎨  
 ✔ Dato curioso: *Siempre intento aprender algo nuevo y luego dormir para que se me grabe mejor* 🧠💤
